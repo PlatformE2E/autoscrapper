@@ -18,6 +18,9 @@ from autoscraper.utils import (
 )
 
 
+API_KEY = "someshittykey2026"
+
+
 class AutoScraper(object):
     """
     AutoScraper : A Smart, Automatic, Fast and Lightweight Web Scraper for Python.
